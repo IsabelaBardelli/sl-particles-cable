@@ -16,5 +16,5 @@ Have fun!
 
 # Video
 
-[![Youtube video showing how's done](http://img.youtube.com/vi/kIss4TKLovE/0.jpg)](http://www.youtube.com/watch?v=kIss4TKLovEE "[SL] Scripting a particles cable")
+[![Youtube video showing how's done](http://img.youtube.com/vi/j8ioSbpMsuQ/0.jpg)](http://www.youtube.com/watch?v=j8ioSbpMsuQ "[SL] Scripting a particles cable")
 
