@@ -7,7 +7,7 @@ A cable made of scripts to Second Life
 
 - Rez a prim to have the p10_cable.lsl script.
 - Add the p10_cable.lsl script to it.
-- Add a black texture (cable color).
+
 - Attach the prim to the user or to the instrument.
 
 - Within max 10m of range, click the plug to connect the cable using particles!
